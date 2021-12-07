@@ -1,13 +1,5 @@
-### Hi there 👋
+# by Ibrahim Ali
 
-<!--
-**byIbrahimAli/byIbrahimAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🌱 I’m currently learning learning Java from the ground up -- strong OOP foundations 💪
-- 👯 I’m looking to collaborate on anything basic 😂 hmu for anything Java, HTML, CSS, C
-- 🤔 I’m looking for help with life?
-- 💬 Ask me about 😂 hahahaha good one hahaaaaaaaaaaa
-- 📫 How to reach me: Twitter or byibrahimali@outlook.com
-- ⚡ Fun fact: Nothing
+- Ibrahim, a student of the science of computers, final task: Dissertation 🕺 
+- Learning Java by following [Java Roadmap](https://roadmap.sh/java) starting with [Tim Buchalka's Programming Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+- Spare time hahaha what even is that?
