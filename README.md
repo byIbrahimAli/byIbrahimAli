@@ -1,5 +1,5 @@
 # by Ibrahim Ali
 
 - Finally finished my degree 🥳
-- Expected 2:1 Computer Scientist Graduate 🎓
-- Current focus: Learning the basics of Swift & C# and refamiliarising myself with DSA 😁
+- Computer Scientist Graduate scored 2:1 🎓
+- Current focus: Learning the basics of C#, Azure, and refamiliarising myself with DSA 😁
